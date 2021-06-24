@@ -1,0 +1,92 @@
+[33mcommit 6fdf30c99376cf01d997d5bb40a84806b5b4e142[m[33m ([m[1;36mHEAD -> [m[1;32mcherry[m[33m)[m
+Merge: 82c88d5 89aa50f
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 15:13:26 2021 +0200
+
+    Merge pull request #1 from mcchoov/cherry
+    
+    Create cherry.txt
+
+[33mcommit 89aa50f78c23d347191b5345b3e32ce1577b6693[m[33m ([m[1;31morigin/cherry[m[33m)[m
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 15:13:00 2021 +0200
+
+    Create cherry.txt
+
+[33mcommit 82c88d58f329ee7233486833ae089532e62e612c[m
+Author: Chauvin Alexandre <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 14:53:59 2021 +0200
+
+    dede
+
+[33mcommit e487b0aff438fb4b22719aa4bd57a4b4fea85ed7[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Chauvin Alexandre <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 14:42:59 2021 +0200
+
+    Add C.txt
+
+[33mcommit 8b95bd733883304e40687048a3abc3d76f2e127a[m
+Author: Chauvin Alexandre <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 14:42:56 2021 +0200
+
+    Add B.txt
+
+[33mcommit 3c71878f6cd76c43be8402ac014c8c3563e78629[m
+Author: Chauvin Alexandre <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 14:42:54 2021 +0200
+
+    A.txt
+
+[33mcommit f0f3862b24a6fcaf969ba4984fac905dd98b7434[m
+Author: Chauvin Alexandre <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 14:45:47 2021 +0200
+
+    Add m.txt
+
+[33mcommit 0337de6d2584e637a4ff2f9a1a7e5e9e47d0ed0a[m
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 13:49:22 2021 +0200
+
+    Update merge-conflict.txt
+
+[33mcommit b797b253eda48a4312881637c051de5fa76f4396[m
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 13:47:28 2021 +0200
+
+    Create merge-conflict.txt
+
+[33mcommit a10484b44243cd4e8f809465d5ccfa838f7227ed[m
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 13:40:26 2021 +0200
+
+    Update monfichier.txt
+
+[33mcommit a290b928e581d58acb9e35815a79d6553a99934f[m
+Author: mcchoov <alexandre.chauvin74@gmail.com>
+Date:   Thu Jun 24 11:45:49 2021 +0200
+
+    Create frfr
+
+[33mcommit d36002da63e6d59fbae8cf3b251b0efdc5e6739b[m
+Author: Alexandre Chauvin <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 11:44:41 2021 +0200
+
+    de2
+
+[33mcommit 51e5a233761d29f4baaf4f118f9a22e33262c986[m
+Author: Alexandre Chauvin <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 10:54:19 2021 +0200
+
+    add 666.txt
+
+[33mcommit fc191014faf1bce5c8ced720b5e2719e7bdb55b7[m
+Author: Alexandre Chauvin <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 09:41:13 2021 +0200
+
+    ignore
+
+[33mcommit dcd7691e8a5f730ff48cb3e76c6a04ac8503f428[m
+Author: Alexandre Chauvin <alexandre.chauvin@sig-ge.ch>
+Date:   Thu Jun 24 09:38:12 2021 +0200
+
+    premier commit
